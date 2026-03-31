@@ -27,8 +27,24 @@ Counts occurrences of keywords in log files.
 ### Script 5 - Manifesto Generator
 Creates a personalized open-source philosophy statement.
 
-## How to Run (Example for the 1st script)
+## How to Run :-
 
-```bash
+## 1st script
 chmod +x script1.sh
 ./script1.sh
+
+## 2nd script
+chmod +x script2.sh
+./script2.sh
+
+## 3rd script
+chmod +x script3.sh
+./script3.sh
+
+## 4th script
+chmod +x script4.sh
+./script4.sh sample.log error
+
+## 5th script
+chmod +x script5.sh
+./script5.sh
