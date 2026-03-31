@@ -28,23 +28,23 @@ Counts occurrences of keywords in log files.
 Creates a personalized open-source philosophy statement.
 
 ## How to Run :-
+Make all scripts executable (run once):
 
-## 1st script
-chmod +x script1.sh
+```bash
+chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+```
+
+## To run 1st script
 ./script1.sh
 
-## 2nd script
-chmod +x script2.sh
+## To run 2nd script
 ./script2.sh
 
-## 3rd script
-chmod +x script3.sh
+## To run 3rd script
 ./script3.sh
 
-## 4th script
-chmod +x script4.sh
+## To run 4th script
 ./script4.sh sample.log error
 
-## 5th script
-chmod +x script5.sh
+## To run 5th script
 ./script5.sh
